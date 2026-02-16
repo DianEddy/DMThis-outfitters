@@ -1,0 +1,7 @@
+{
+  "name": "DMThis Outfitters - Bespoke Apparel",
+  "description": "A premium custom apparel design platform for women. Design your own dresses, tops, skirts, and more with AI-powered quotes and visualizations.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
